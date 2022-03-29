@@ -1,7 +1,7 @@
 - 👋 Hi, I’m janarthanan
-- 👀 I’m interested in flutter and machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning android app development with Java
+- 💞️ I’m looking to collaborate on android framework and development
 - 📫 How to reach me ...chandrunair44@gmail.com
 
 <!---
