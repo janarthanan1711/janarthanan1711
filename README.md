@@ -1,6 +1,6 @@
 - 👋 Hi, I’m janarthanan
 - 👀 I’m interested in Flutter App Development
-- 🌱 I’m currently learning flutter app development with Dart
+- 🌱 I’m currently Working on flutter app development with Dart
 - 💞️ I’m looking to collaborate on flutter framework and development
 - 📫 How to reach me ...chandrunair44@gmail.com
 
